@@ -1,7 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   width: 280px;  /* même largeur que ton container */
+=======
+  width: 280px;  
+>>>>>>> 9d25114 (update all)
   height: auto;
   overflow: hidden; /* empêche le scroll */
   background: linear-gradient(135deg, #e0f2fe, #ffffff);
