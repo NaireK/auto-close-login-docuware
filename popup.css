@@ -4,7 +4,7 @@ html, body {
   width: 280px;
   height: auto;
   overflow: hidden; /* empêche le scroll */
-  background: linear-gradient(135deg, #e0f2fe, #ffffff);
+  background: linear-gradient(135deg, #e0f2fe, #f0eeee);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: center;
