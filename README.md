@@ -15,7 +15,6 @@ Une extension Chrome développée pour **fermer automatiquement** les onglets do
 
 ## 📂 Structure du projet
 
-auto-close-login-docuware/
 ├── background.js # Script principal qui ferme les onglets ciblés  
 ├── popup.html # Interface de l’extension  
 ├── popup.js # Logique du bouton pause/activation  
