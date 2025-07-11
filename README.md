@@ -16,13 +16,13 @@ Une extension Chrome développée pour **fermer automatiquement** les onglets do
 ## 📂 Structure du projet
 
 auto-close-login-docuware/
-├── background.js # Script principal qui ferme les onglets ciblés
-├── popup.html # Interface de l’extension
-├── popup.js # Logique du bouton pause/activation
-├── popup.css # Style de l’interface
-├── manifest.json # Déclaration de l’extension Chrome
-├── icon16.png # Icône affichée dans la barre d’outils
-├── Factoria-logo.png # Logo affiché dans la popup
+├── background.js # Script principal qui ferme les onglets ciblés  
+├── popup.html # Interface de l’extension  
+├── popup.js # Logique du bouton pause/activation  
+├── popup.css # Style de l’interface  
+├── manifest.json # Déclaration de l’extension Chrome  
+├── icon16.png # Icône affichée dans la barre d’outils  
+├── Factoria-logo.png # Logo affiché dans la popup  
 
 ---
 
@@ -64,5 +64,3 @@ L'extension fermera automatiquement un onglet si son URL contient une variante d
 ## 🧑‍💻 Auteur
 
 Développé par [NaireK](https://github.com/NaireK) pour usage interne à Factoria.
-
----
